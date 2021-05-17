@@ -1,0 +1,794 @@
+GET http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+
+<> 2021-05-17T165411.200.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+Content-Type: application/json
+
+{
+    "id": "5",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+
+#blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+Content-Type: application/json
+
+{
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+
+#blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+<> 2021-05-17T165354.500.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+Content-Type: application/json
+
+{
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+
+#blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+<> 2021-05-17T165351.500.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+Content-Type: application/json
+
+{
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+
+#blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+<> 2021-05-17T165348.500.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+{:
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T165328.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+
+{
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+
+#blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+<> 2021-05-17T165321.500.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+{:
+    "id": "4",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T165301.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+{:
+    "id": "4",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T165244.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWAuthorization
+RtaW46MTIzNDU2:
+{:
+    "id": "4",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T165224.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWAuthorization
+RtaW46MTIzNDU2:
+{:
+    "id": "4",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T165211.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWAuthorization
+RtaW46MTIzNDU2:
+{:
+    "id": "4",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T165210.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWAuthorization
+RtaW46MTIzNDU2:
+{:
+    "id": "4",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T165157.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+{:
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T165138.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+{:
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T165128.400.txt
+
+###
+
+GET http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+
+<> 2021-05-17T165057.200.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+Content-Type: application/json
+{:
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T164919.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+Content-Type: application/json
+{:
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T164454.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+Content-Type: application/json
+{:
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T164409.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+Content-Type: application/json
+{:
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T164407.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+Content-Type: application/json
+{:
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T164406.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+Content-Type: application/json
+{:
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T164053.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+
+{
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+
+#blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+<> 2021-05-17T164036.500.txt
+
+###
+
+POST http://localhost:8888/api/getCompanies
+Authorization: Basic YWRtaW46MTIzNDU2
+
+{
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+
+#blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+<> 2021-05-17T163959.200.html
+
+###
+
+POST http://localhost:8080/api/getCompanies
+Authorization: Basic YWRtaW46MTIzNDU2
+
+{
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+
+#blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+###
+
+POST http://localhost:8888/api/getCompanies
+Authorization: Basic YWRtaW46MTIzNDU2
+Content-Type: application/json
+{:
+  "id": "004",
+  "name": "Facebook",
+  "nickName": "FB"
+}:
+
+<> 2021-05-17T163859.400.txt
+
+###
+
+POST http://localhost:8888/api/getCompanies
+Authorization: Basic YWRtaW46MTIzNDU2
+Content-Type: application/json
+{:
+  "id": "004",
+  "name": "Facebook",
+  "nickName": "FB"
+}:
+
+<> 2021-05-17T163834.400.txt
+
+###
+
+POST http://localhost:8888/api/getCompanies
+Content-Type: application/json
+{:
+  "id": "004",
+  "name": "Facebook",
+  "nickName": "FB"
+}:
+
+<> 2021-05-17T163823.400.txt
+
+###
+
+POST http://localhost:8888/api/getCompanies
+Content-Type: application/json
+{:
+  "id": "004",
+  "name": "Facebook",
+  "nickName": "FB"
+}:
+
+<> 2021-05-17T163812.400.txt
+
+###
+
+POST http://localhost:8888/api/getCompanies
+Authorization: Basic YWRtaW46MTIzNDU2
+{:
+    "id": "1",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T163747.400.txt
+
+###
+
+POST http://localhost:8888/api/getCompanies
+Authorization: Basic YWRtaW46MTIzNDU2
+{:
+    "id": "1",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T163714.400.txt
+
+###
+
+POST http://localhost:8888/api/getCompanies
+Authorization: Basic YWRtaW46MTIzNDU2
+{:
+    "id": "105",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T163651.400.txt
+
+###
+
+POST http://localhost:8888/api/getCompanies
+Content-Type: application/json
+{:
+  "id": "004",
+  "name": "Facebook",
+  "nickName": "FB"
+}:
+
+<> 2021-05-17T163639.400.txt
+
+###
+
+POST http://localhost:8888/api/getCompanies
+Authorization: Basic YWRtaW46MTIzNDU2
+{:
+    "id": "105",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T163630.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+{:
+    "id": "105",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T163602.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+{:
+    "id": "104",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T163555.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+{:
+    "id": "104",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T163549.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Content-Type: application/json
+{:
+  "id": "004",
+  "name": "Facebook",
+  "nickName": "FB"
+}:
+
+<> 2021-05-17T163531.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+Content-Type: application/json
+{:
+    "id": "104",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T163522.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+Content-Type: application/json
+{:
+    "id": "104",
+    "name": "Facebook",
+    "nickName": "FB"
+}:
+
+<> 2021-05-17T163502.400.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+
+{
+    "id": "104",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+##https://blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+
+{
+    "id": "4",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+##https://blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+<> 2021-05-17T163322.500.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+
+{
+    "id": "4",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+##https://blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+<> 2021-05-17T163321-1.500.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+
+{
+    "id": "4",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+##https://blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+<> 2021-05-17T163321.500.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+
+{
+    "id": "4",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+##https://blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+<> 2021-05-17T163320.500.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+
+{
+    "id": "4",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+##https://blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+<> 2021-05-17T163317.500.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+
+{
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+##https://blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+<> 2021-05-17T163312.500.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU2
+
+{
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+##https://blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+<> 2021-05-17T163311.500.txt
+
+###
+
+POST http://localhost:8888/api/companies
+Content-Type: application/json
+
+{
+  "id": "004",
+  "name": "Facebook",
+  "nickName": "FB"
+}
+
+###
+
+POST http://localhost:8888/api/companies
+Authorization: Basic YWRtaW46MTIzNDU23
+
+{
+    "id": "004",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+##https://blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+###
+

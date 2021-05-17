@@ -1,0 +1,52 @@
+GET http://localhost:8888/api/companies  HTTP/1.1
+Authorization: Basic YWRtaW46MTIzNDU2
+
+# return json
+#[{"ID":"1","Name":"test","NickName":"test22"},{"ID":"4","Name":"Facebook","NickName":"FB"},{"ID":"11","Name":"test11","NickName":"test11.com"},{"ID":"104","Name":"Facebook","NickName":"FB"},{"ID":"32332","Name":"233232","NickName":"33223"}]
+
+###
+### /api/companies POST, admin:123456
+POST http://localhost:8888/api/companies HTTP/1.1
+Authorization: Basic YWRtaW46MTIzNDU2
+Content-Type: application/json
+
+{
+    "id": "5",
+    "name": "Facebook",
+    "nickName": "FB"
+}
+
+
+#blog.csdn.net/cf313995/article/details/108376718
+#POST http://localhost:80/api/item
+#Content-Type: multipart/form-data; boundary=WebAppBoundary
+#
+#--WebAppBoundary
+#Content-Disposition: form-data; name="field-name"; filename="file.txt"
+#
+#< ./relative/path/to/local_file.txt
+#--WebAppBoundary--
+
+###
+POST http://localhost:8888/api/getCompanies
+Content-Type: application/json
+{
+  "id": "004",
+  "name": "Facebook",
+  "nickName": "FB"
+}
+
+
+####
+#GET http://localhost:8888/api/api/companies
+#Accept: application/json
+#{
+#    "id": "004",
+#    "name": "Facebook",
+#    "nickName": "FB"
+#}
+
+#<> 2021-05-14T143922.400.txt
+###
+
+

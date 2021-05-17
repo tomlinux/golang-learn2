@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd918612-a2b3-4666-91ff-86d7fd51df70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="ProjectId" id="1qTLVpFu09zBaEqWyRYb7MooOLM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable..is.expanded" value="false" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
+    <property name="database.data.extractors.current.export.id" value="SQL Inserts" />
+    <property name="database.data.extractors.current.id" value="SQL Inserts" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;id&quot;: &quot;5&quot;,&#10;    &quot;name&quot;: &quot;Facebook&quot;,&#10;    &quot;nickName&quot;: &quot;FB&quot;&#10;}&#10;&#10;&#10;#blog.csdn.net/cf313995/article/details/108376718&#10;#POST http://localhost:80/api/item&#10;#Content-Type: multipart/form-data; boundary=WebAppBoundary&#10;#&#10;#--WebAppBoundary&#10;#Content-Disposition: form-data; name=&quot;field-name&quot;; filename=&quot;file.txt&quot;&#10;#&#10;#&lt; ./relative/path/to/local_file.txt&#10;#--WebAppBoundary--" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;id&quot;: &quot;004&quot;,&#10;    &quot;name&quot;: &quot;Facebook&quot;,&#10;    &quot;nickName&quot;: &quot;FB&quot;&#10;}&#10;&#10;&#10;#blog.csdn.net/cf313995/article/details/108376718&#10;#POST http://localhost:80/api/item&#10;#Content-Type: multipart/form-data; boundary=WebAppBoundary&#10;#&#10;#--WebAppBoundary&#10;#Content-Disposition: form-data; name=&quot;field-name&quot;; filename=&quot;file.txt&quot;&#10;#&#10;#&lt; ./relative/path/to/local_file.txt&#10;#--WebAppBoundary--" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="{" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;id&quot;" />
+                <option name="value" value="&quot;004&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;name&quot;" />
+                <option name="value" value="&quot;Facebook&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;nickName&quot;" />
+                <option name="value" value="&quot;FB&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="}" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;id&quot;: &quot;004&quot;,&#10;    &quot;name&quot;: &quot;Facebook&quot;,&#10;    &quot;nickName&quot;: &quot;FB&quot;&#10;}&#10;&#10;&#10;#blog.csdn.net/cf313995/article/details/108376718&#10;#POST http://localhost:80/api/item&#10;#Content-Type: multipart/form-data; boundary=WebAppBoundary&#10;#&#10;#--WebAppBoundary&#10;#Content-Disposition: form-data; name=&quot;field-name&quot;; filename=&quot;file.txt&quot;&#10;#&#10;#&lt; ./relative/path/to/local_file.txt&#10;#--WebAppBoundary--" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="{" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;id&quot;" />
+                <option name="value" value="&quot;4&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;name&quot;" />
+                <option name="value" value="&quot;Facebook&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;nickName&quot;" />
+                <option name="value" value="&quot;FB&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="}" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWAuthorization" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="RtaW46MTIzNDU2" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="{" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;id&quot;" />
+                <option name="value" value="&quot;4&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;name&quot;" />
+                <option name="value" value="&quot;Facebook&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;nickName&quot;" />
+                <option name="value" value="&quot;FB&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="}" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="{" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;id&quot;" />
+                <option name="value" value="&quot;004&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;name&quot;" />
+                <option name="value" value="&quot;Facebook&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;nickName&quot;" />
+                <option name="value" value="&quot;FB&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="}" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/getCompanies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;id&quot;: &quot;004&quot;,&#10;    &quot;name&quot;: &quot;Facebook&quot;,&#10;    &quot;nickName&quot;: &quot;FB&quot;&#10;}&#10;&#10;&#10;#blog.csdn.net/cf313995/article/details/108376718&#10;#POST http://localhost:80/api/item&#10;#Content-Type: multipart/form-data; boundary=WebAppBoundary&#10;#&#10;#--WebAppBoundary&#10;#Content-Disposition: form-data; name=&quot;field-name&quot;; filename=&quot;file.txt&quot;&#10;#&#10;#&lt; ./relative/path/to/local_file.txt&#10;#--WebAppBoundary--" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/getCompanies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="{" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="  &quot;id&quot;" />
+                <option name="value" value="&quot;004&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="  &quot;name&quot;" />
+                <option name="value" value="&quot;Facebook&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="  &quot;nickName&quot;" />
+                <option name="value" value="&quot;FB&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="}" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/getCompanies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="{" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="  &quot;id&quot;" />
+                <option name="value" value="&quot;004&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="  &quot;name&quot;" />
+                <option name="value" value="&quot;Facebook&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="  &quot;nickName&quot;" />
+                <option name="value" value="&quot;FB&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="}" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/getCompanies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="{" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;id&quot;" />
+                <option name="value" value="&quot;1&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;name&quot;" />
+                <option name="value" value="&quot;Facebook&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;nickName&quot;" />
+                <option name="value" value="&quot;FB&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="}" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/getCompanies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="{" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;id&quot;" />
+                <option name="value" value="&quot;105&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;name&quot;" />
+                <option name="value" value="&quot;Facebook&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;nickName&quot;" />
+                <option name="value" value="&quot;FB&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="}" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="{" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;id&quot;" />
+                <option name="value" value="&quot;105&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;name&quot;" />
+                <option name="value" value="&quot;Facebook&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;nickName&quot;" />
+                <option name="value" value="&quot;FB&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="}" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="{" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;id&quot;" />
+                <option name="value" value="&quot;104&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;name&quot;" />
+                <option name="value" value="&quot;Facebook&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;nickName&quot;" />
+                <option name="value" value="&quot;FB&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="}" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="{" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="  &quot;id&quot;" />
+                <option name="value" value="&quot;004&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="  &quot;name&quot;" />
+                <option name="value" value="&quot;Facebook&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="  &quot;nickName&quot;" />
+                <option name="value" value="&quot;FB&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="}" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="{" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;id&quot;" />
+                <option name="value" value="&quot;104&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;name&quot;" />
+                <option name="value" value="&quot;Facebook&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;nickName&quot;" />
+                <option name="value" value="&quot;FB&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="}" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;id&quot;: &quot;104&quot;,&#10;    &quot;name&quot;: &quot;Facebook&quot;,&#10;    &quot;nickName&quot;: &quot;FB&quot;&#10;}&#10;&#10;##https://blog.csdn.net/cf313995/article/details/108376718&#10;#POST http://localhost:80/api/item&#10;#Content-Type: multipart/form-data; boundary=WebAppBoundary&#10;#&#10;#--WebAppBoundary&#10;#Content-Disposition: form-data; name=&quot;field-name&quot;; filename=&quot;file.txt&quot;&#10;#&#10;#&lt; ./relative/path/to/local_file.txt&#10;#--WebAppBoundary--" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;id&quot;: &quot;4&quot;,&#10;    &quot;name&quot;: &quot;Facebook&quot;,&#10;    &quot;nickName&quot;: &quot;FB&quot;&#10;}&#10;&#10;##https://blog.csdn.net/cf313995/article/details/108376718&#10;#POST http://localhost:80/api/item&#10;#Content-Type: multipart/form-data; boundary=WebAppBoundary&#10;#&#10;#--WebAppBoundary&#10;#Content-Disposition: form-data; name=&quot;field-name&quot;; filename=&quot;file.txt&quot;&#10;#&#10;#&lt; ./relative/path/to/local_file.txt&#10;#--WebAppBoundary--" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;id&quot;: &quot;004&quot;,&#10;    &quot;name&quot;: &quot;Facebook&quot;,&#10;    &quot;nickName&quot;: &quot;FB&quot;&#10;}&#10;&#10;##https://blog.csdn.net/cf313995/article/details/108376718&#10;#POST http://localhost:80/api/item&#10;#Content-Type: multipart/form-data; boundary=WebAppBoundary&#10;#&#10;#--WebAppBoundary&#10;#Content-Disposition: form-data; name=&quot;field-name&quot;; filename=&quot;file.txt&quot;&#10;#&#10;#&lt; ./relative/path/to/local_file.txt&#10;#--WebAppBoundary--" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot;: &quot;004&quot;,&#10;  &quot;name&quot;: &quot;Facebook&quot;,&#10;  &quot;nickName&quot;: &quot;FB&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8888/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic YWRtaW46MTIzNDU23" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;    &quot;id&quot;: &quot;004&quot;,&#10;    &quot;name&quot;: &quot;Facebook&quot;,&#10;    &quot;nickName&quot;: &quot;FB&quot;&#10;}&#10;&#10;##https://blog.csdn.net/cf313995/article/details/108376718&#10;#POST http://localhost:80/api/item&#10;#Content-Type: multipart/form-data; boundary=WebAppBoundary&#10;#&#10;#--WebAppBoundary&#10;#Content-Disposition: form-data; name=&quot;field-name&quot;; filename=&quot;file.txt&quot;&#10;#&#10;#&lt; ./relative/path/to/local_file.txt&#10;#--WebAppBoundary--" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8888/api/api/companies" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="{" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;id&quot;" />
+                <option name="value" value="&quot;004&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;name&quot;" />
+                <option name="value" value="&quot;Facebook&quot;," />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="    &quot;nickName&quot;" />
+                <option name="value" value="&quot;FB&quot;" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="}" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="excludedTypes">
+      <set>
+        <option value="HttpClient.HttpRequestRunConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.test#1">
+    <configuration name="go build TwoProject" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="TwoProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="TwoProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="TwoProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="TwoProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test TwoProject" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="TwoProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="TwoProject" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="test#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/test.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="test#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/test.http" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build TwoProject" />
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Test.go test TwoProject" />
+      <item itemvalue="HTTP Request.rest-api#1" />
+      <item itemvalue="HTTP Request.test#1" />
+      <item itemvalue="HTTP Request.test#2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.test#1" />
+        <item itemvalue="HTTP Request.test#2" />
+        <item itemvalue="Go Build.go build TwoProject" />
+        <item itemvalue="Go Test.go test TwoProject" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GO111MODULE" value="on" />
+        <entry key="GOPROXY" value="https://goproxy.cn" />
+      </map>
+    </environment>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/common/database.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>43</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>28</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controler/company.go</url>
+          <line>37</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/model/company.go</url>
+          <line>83</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
